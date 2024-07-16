@@ -33,3 +33,12 @@ nombre3= "Aranza Duran Escalona"
 cuarto_nombre= nombre3[:12]
 
 print(cuarto_nombre)
+
+
+#SEGUNDA PARTE FUNCION "SLIDE"
+
+website= "https://youtube/x-OzspEcQG8?si=NzB1C05B2RsrxUEk"
+slice = slice(0,-12)
+
+
+
