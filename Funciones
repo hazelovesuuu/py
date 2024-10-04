@@ -1,0 +1,48 @@
+                                     #FUNCIONES 
+          
+          
+          
+          #EJEMPLO NUMERO 1 
+          
+                           
+print("EJEMPLO NUMERO 1")
+
+def ejemplo_1():
+#Usamos la funcion "def" y el valor (ejemplo_1) para crear un bloque de codigo.
+
+ print("hola, esto es un ejemplo")
+ #Se procede a imprimir el texto.
+ 
+ ejemplo_1()
+ 
+ #Aqui termina el bloque de codigo.
+ 
+
+ 
+ 
+ 
+ 
+ 
+ #EJEMPLO NUMERO 2
+ 
+ print("EJEMPLO NUMERO 2")
+ 
+ def ejemplo_numero2():
+     print("hola, este es un segundo ejemplo.")
+     print("hola, este es un segundo ejemplo")
+     
+     ejemplo_numero2()
+     
+     
+    
+        
+    
+#EJEMPLO NUMERO 4 CON PARAMETROS
+
+print("EJEMPLO NUMERO 4 CON PARAMETROS")
+
+def ejemplo_numero3(nombre, edad):
+     print ("Hola"+ nombre)
+    
+nombre= ("Diego")
+
